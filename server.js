@@ -16,17 +16,23 @@
  * git remote add origin https://đường dẫn đến repository trên git hub //kết nối đến github (chạy lần đầu)
  * git push origin master //Chạy mỗi lần đẩy dữ liệu lên github
  */
-//II. Sử dụng công cụ code Visual studio code và cài môi trường Nodejs
+//II. Sử dụng công cụ code Visual studio code và cài môi trường Nodejs************************************************
 /**
  * 1. Cấu hình ban đầu cho Visual studio code
  * + Vào File -> Preference -> Settings: Tìm từ khóa Format -> Tích chọn Format on save
  * + Cài các phần mở rộng: Auto Rename Tag; Bootstrap 4, Fontawesome 4...; formate: CSS/LESS/SCSS...; Live Server; Material Icon Theme
  */
-//III. Cài react
+//III. Cài react***********************************
 /**
  * 1. Mở folder để chứa opject -> Chạy terminal trong visual studio code/ hoặc chạy cmd
  * 2. npx create-react-app "ten-app-muon-dat"
  * 3. npm start //chạy app lần đầu
+ */
+//IV. Lấy code trên github*********************************
+/**
+ * 1. Copy đường dẫn https trong mục Code của project trên Git hub
+ * 2. Tại folder trên máy tính chạy cmd
+ * 3. git clone https://đường dẫn copy trên code git hub
  */
 
 console.log("Hello GitHub");
